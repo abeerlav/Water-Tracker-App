@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:2:1-69:12
+	package
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:6:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:10:5-67:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:12:9-42
+	android:theme
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:15:9-40
+activity#a2dv606.androidproject.MainWindow.MainActivity
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:16:19-58
+activity#a2dv606.androidproject.WaterDrankHistory.DateLogActivity
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:17:9-71
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:17:19-68
+activity#a2dv606.androidproject.WaterDrankHistory.TimeLogActivity
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:18:9-71
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:18:19-68
+activity#a2dv606.androidproject.Settings.SettingsActivity
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:19:19-60
+activity#a2dv606.androidproject.OutlinesFragments.OutlineActivity
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:20:19-68
+intent-filter#android.intent.action.SENDTO+android.intent.category.DEFAULT
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:21:13-27:29
+action#android.intent.action.SENDTO
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:22:17-71
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:22:25-68
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:24:27-73
+data
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:26:17-55
+	android:mimeType
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:26:23-52
+receiver#a2dv606.androidproject.Notifications.NotificationReciever
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:30:9-72
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:30:19-69
+receiver#a2dv606.androidproject.BroadcastReceivers.DateLogBroadcastReceiver
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:31:9-81
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:31:19-78
+receiver#a2dv606.androidproject.BroadcastReceivers.StopNotificationBroadcastReceiver
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:32:9-90
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:32:19-87
+activity#a2dv606.androidproject.Chart.ChartActivity
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:34:9-36:48
+	android:background
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:35:13-48
+activity#a2dv606.androidproject.SplashScreen
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:37:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:41:27-74
+receiver#a2dv606.androidproject.BroadcastReceivers.BootBroadcastReceiver
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:45:9-51:20
+	android:enabled
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:47:13-35
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:46:13-69
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:48:13-50:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:49:17-79
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:49:25-76
+receiver#a2dv606.androidproject.Widget.WidgetProvider
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:52:9-61:20
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:52:19-56
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:54:17-56:33
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:55:21-88
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:55:29-85
+meta-data#android.appwidget.provider
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:58:13-60:55
+	android:resource
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:60:17-52
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:59:17-58
+service#a2dv606.androidproject.Widget.UpdateWidgetService
+ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:63:9-66:47
+	android:enabled
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:65:13-35
+	android:exported
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:66:13-36
+	android:name
+		ADDED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml:64:13-55
+uses-sdk
+INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Android:alobar-preference:unspecified] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\Android\alobar-preference\unspecified\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v13:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.lzyzsd:circleprogress:1.1.0] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.github.lzyzsd\circleprogress\1.1.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Hussain\Desktop\android\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hussain\Desktop\android\Android\app\src\main\AndroidManifest.xml

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@android:style/Theme.Holo.Light"
+    >
+
+    <TimePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/timePicker"
+        android:layout_gravity="center_horizontal">
+        <requestFocus />
+    </TimePicker>
+
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="87dp"
+        android:weightSum="1"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/set_time_button"
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_corner"
+            android:layout_marginLeft="10dp"
+            android:text="set"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_weight="0.13" />
+
+        <Button
+            android:id="@+id/cancel_time_button"
+            android:layout_width="111dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_corner"
+            android:layout_marginLeft="10dp"
+            android:text="Cancel"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_weight="0.13" />
+    </LinearLayout>
+
+</LinearLayout>

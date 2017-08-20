@@ -1,0 +1,101 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  xmlns:preference="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Daily Need Measurement "
+       > </PreferenceCategory>
+
+    <alobar.preference.NumberPickerPreference
+        android:key="key_weight_number"
+        android:title="@string/pref_weight_title"
+        android:icon="@drawable/weight_icon"
+        preference:maxValue="@integer/weight_max_vlaue"
+        preference:minValue="@integer/weight_min_value"
+        android:summary="Add your weight!"
+        preference:wrapSelectorWheel="false"
+       />
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:icon="@drawable/training_icon"
+        android:key="key_training"
+        android:title="@string/pref_training_title"
+      />
+
+    <alobar.preference.NumberPickerPreference
+        android:defaultValue="2500"
+        android:key="key_water_recommendation"
+        android:title="@string/pref_water_need_title"
+        android:icon="@drawable/icon_water_drop"
+        preference:maxValue="@integer/water_recom_number_max_value"
+        preference:minValue="@integer/water_recom_number_min_value"
+        android:summary="2500 ml"
+        preference:wrapSelectorWheel="false" />
+    <Preference android:layout="@layout/divider">
+
+    </Preference>
+    <PreferenceCategory
+        android:title="Container Size "
+        >
+        <ListPreference
+            android:key="key_glass"
+            android:title="Glass size"
+            android:defaultValue="250"
+            android:icon="@drawable/water_glass"
+            android:entries="@array/glass_size_names_array"
+            android:entryValues="@array/glass_size_values_array"
+            />
+
+        <ListPreference
+            android:key="key_bottle"
+            android:title="Bottle size"
+            android:defaultValue="1500"
+            android:entries="@array/bottle_size_names_array"
+            android:entryValues="@array/bottle_size_values_array"
+            android:icon="@drawable/water_bottle"
+         />
+
+    </PreferenceCategory>
+    <Preference android:layout="@layout/divider">
+
+    </Preference>
+    <PreferenceCategory
+        android:title="Notifications and Sounds"
+        >
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="key_notif_enable"
+            android:icon="@drawable/icon_notification"
+            android:title="@string/pref_notif_enable_title"
+            />
+        <SwitchPreference
+            android:defaultValue="false"
+            android:icon="@drawable/icon_sound"
+            android:key="key_notif_sound"
+            android:title="@string/pref_notif_sound_title"
+          />
+    </PreferenceCategory>
+    <Preference
+        android:key="key_from_time"
+        android:defaultValue="8:0"
+        android:icon="@drawable/clock_from_icon"
+        android:title="From"
+        android:enabled="false"/>
+    <Preference
+        android:key="key_to_time"
+        android:defaultValue="20:0"
+        android:icon="@drawable/clock_to_icon"
+        android:title="To"
+        android:enabled="false"/>
+    <alobar.preference.NumberPickerPreference
+        android:enabled="false"
+        android:icon="@drawable/interval_icon"
+        android:defaultValue="@integer/defualt_time_interval"
+        android:key="key_notif_interval_time"
+        android:title="@string/pref_notif_interval_time_title"
+        preference:maxValue="@integer/notif_time_interval_max_value"
+        preference:minValue="@integer/notif_time_interval_min_value"
+        preference:wrapSelectorWheel="false"
+       />
+
+
+</PreferenceScreen>

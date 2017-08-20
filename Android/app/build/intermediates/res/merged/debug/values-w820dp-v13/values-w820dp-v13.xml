@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="activity_vertical_margin">64dp</dimen>
+    <dimen name="appbar_padding_top">64dp</dimen>
+    <dimen name="fab_margin">64dp</dimen>
+    <dimen name="margin_main_add_drink_button">64dp</dimen>
+    <dimen name="padding_main">67dp</dimen>
+    <dimen name="text_main">50sp</dimen>
+</resources>

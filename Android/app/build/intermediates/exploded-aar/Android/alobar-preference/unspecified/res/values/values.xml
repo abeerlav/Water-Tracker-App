@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberPickerPreference"><attr format="integer|reference" name="minValue"/><attr format="integer|reference" name="maxValue"/><attr format="boolean" name="wrapSelectorWheel"/></declare-styleable>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/image_view"
+        android:cropToPadding="false"
+        android:adjustViewBounds="true"
+        android:maxWidth="110dp"
+        android:maxHeight="110dp"
+        android:scaleType="fitCenter"
+        android:layout_marginRight="3dp"
+        android:src="@color/blue"
+        android:foregroundGravity="center" />
+
+    <TextView
+        android:layout_width="212dp"
+        android:layout_height="174dp"
+        android:text=" New Text"
+        android:id="@+id/review_view"
+        android:foregroundGravity="center_vertical"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+
+
+
+        android:layout_width="168dp"
+        android:layout_height="50dp"
+        android:text=" Share advice"
+        android:id="@+id/shareBtn"
+        android:textColor="@color/colorPrimaryDark"
+        android:layout_gravity="bottom|center_horizontal"
+        android:background="@drawable/round_corner"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="90dp" />
+
+
+</LinearLayout>

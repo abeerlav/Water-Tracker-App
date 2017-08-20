@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:layout_alignParentTop="true"
+    android:background="@android:color/transparent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal">
+
+        <TextView
+            android:ems="10"
+            android:layout_width="263dp"
+            android:layout_height="145dp"
+            android:background="@android:drawable/editbox_background_normal"
+            android:inputType="textMultiLine"
+            android:layout_marginTop="40dp"
+            android:scrollbars="vertical"
+            android:text="Congratulation!"
+            android:id="@+id/text1"
+            android:textStyle="bold"
+            android:textSize="30dp"
+            android:textColor="@color/blue"
+            android:paddingBottom="50dp"
+            android:gravity="bottom|center_horizontal"
+            android:layout_marginLeft="70dp" />
+
+        <ImageView
+            android:layout_marginTop="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="79dp"
+            android:layout_gravity="top|center"
+            android:src="@drawable/champion" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            android:text="the norm is achieved"
+            android:id="@+id/textView5"
+            android:textStyle="bold"
+            android:textColor="@color/blue"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:paddingTop="20dp" />
+
+        <ImageView
+            android:layout_width="53dp"
+            android:layout_height="53dp"
+            android:id="@+id/imageView2"
+            android:layout_gravity="center_horizontal|bottom"
+            android:src="@drawable/button_round_cancel_icon"
+            android:layout_marginTop="10dp" />
+
+
+    </FrameLayout>
+
+
+</LinearLayout>

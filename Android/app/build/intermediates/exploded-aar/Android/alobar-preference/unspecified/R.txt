@@ -1,0 +1,7 @@
+int attr maxValue 0x7f010001
+int attr minValue 0x7f010000
+int attr wrapSelectorWheel 0x7f010002
+int[] styleable NumberPickerPreference { 0x7f010000, 0x7f010001, 0x7f010002 }
+int styleable NumberPickerPreference_maxValue 1
+int styleable NumberPickerPreference_minValue 0
+int styleable NumberPickerPreference_wrapSelectorWheel 2

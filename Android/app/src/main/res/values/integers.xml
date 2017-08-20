@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="number_default_value">65</integer>
+    <integer name="number_water_default_value">3000</integer>
+    <integer name="weight_min_value">30</integer>
+    <integer name="weight_max_vlaue">200</integer>
+
+
+     <integer name="water_recom_number_value">2000</integer>
+    <integer name="water_recom_number_min_value">1000</integer>
+    <integer name="water_recom_number_max_value">5000</integer>
+    <integer name="notif_time_interval_min_value">1</integer>
+    <integer name="notif_time_max_vlaue">7</integer>
+    <integer name="notif_time_interval_max_value">4</integer>
+    <integer name="defualt_time_interval">2</integer>
+
+
+</resources>

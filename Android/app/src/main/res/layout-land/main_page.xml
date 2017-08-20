@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/main_page_backgound">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/main_view"
+        android:padding="20dp">
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/sleep_button"
+            android:layout_gravity="right"
+            android:src = "@drawable/sleep_mode"
+            android:tint="@color/colorPrimaryDark"
+            android:padding="@dimen/padding_main"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/circle_button"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Today you drank"
+            android:textColor="@color/colorPrimaryDark"
+            android:paddingTop="60dp"
+            android:textSize="20sp"
+            android:layout_gravity="center_horizontal"/>
+
+        <com.github.lzyzsd.circleprogress.DonutProgress
+            android:id="@+id/donut_progress"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            custom:donut_finished_color="@color/colorPrimaryDark"
+            custom:donut_unfinished_stroke_width="5dp"
+            custom:donut_unfinished_color="@color/blue"
+            custom:donut_finished_stroke_width="10dp"
+            custom:donut_text_size="50sp"
+            custom:donut_text_color="@color/colorPrimaryDark"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:layout_marginStart="180dp"
+            android:textSize="15sp"
+            android:id="@+id/choosen_drink_text"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/add_drink_button"
+            android:text="add a drink"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:tint ="@color/colorPrimaryDark"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/drink_button"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="30dp">
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/log_button"
+                android:src = "@drawable/history_icon"
+                android:tint="@color/colorPrimaryDark"
+                android:padding="7dp"
+                android:background="@drawable/circle_button"
+                />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/outlines_button"
+                android:src = "@drawable/info"
+                android:tint="@color/colorPrimaryDark"
+                android:padding="7dp"
+                android:layout_marginLeft="15dp"
+                android:background="@drawable/circle_button"
+                />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/chart_button"
+                android:src = "@drawable/show_chart"
+                android:tint="@color/colorPrimaryDark"
+                android:padding="7dp"
+                android:layout_marginLeft="15dp"
+                android:background="@drawable/circle_button"
+                />
+            <ImageButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/setting_button"
+                android:src = "@drawable/setting_icon"
+                android:tint="@color/colorPrimaryDark"
+                android:padding="7dp"
+                android:layout_marginLeft="15dp"
+                android:background="@drawable/circle_button"
+                />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</RelativeLayout>

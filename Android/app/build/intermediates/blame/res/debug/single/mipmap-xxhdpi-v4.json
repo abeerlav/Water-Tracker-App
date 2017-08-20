@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\water_drop.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\mipmap-xxhdpi\\water_drop.png"
+    }
+]

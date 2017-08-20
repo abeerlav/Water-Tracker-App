@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="a2dv606_aa223de.assignment_2.MyCountries.My_Countries">
+
+    <item android:id="@+id/add_drink"
+        android:icon="@drawable/plus_icon"
+        app:showAsAction="always"
+        android:title="" />
+    <item android:id="@+id/sort_by_time_desc"
+        android:title="Sort by time DESC"  ></item>
+
+    <item android:id="@+id/sort_by_time_ASC"
+        android:title="Sort by time ASC"  ></item>
+
+    <item android:id="@+id/sort_by_amount_desc"
+        android:title="Sort by water drank DESC"  ></item>
+    <item android:id="@+id/sort_by_amount_asc"
+        android:title="Sort by water drank ASC"  ></item>
+
+</menu>
