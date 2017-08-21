@@ -458,7 +458,7 @@ public class TimeLogActivity extends AppCompatActivity  implements View.OnClickL
         int preValue = db.getConsumedPercentage();
         MainActivity.circleProgress.setProgress(preValue);
         MainActivity.choosenAmountTv.setText(String.valueOf(db.geConsumedWaterForToadyDateLog()
-                +" out of"+ PrefsHelper.getWaterNeedPrefs(getApplicationContext()))+"ml");
+                +" out of "+ PrefsHelper.getWaterNeedPrefs(getApplicationContext()))+" ml");
         adapter.clear();
         adapter.addAll(db.getAllTimeLogs(db.sortByTimeDesc(),date));
         listView.setAdapter(adapter);

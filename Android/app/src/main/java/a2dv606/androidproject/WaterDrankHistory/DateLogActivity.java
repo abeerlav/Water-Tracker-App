@@ -104,7 +104,7 @@ public class DateLogActivity extends AppCompatActivity {
             waterLog = (TextView) itemView.findViewById(R.id.water_drunk);
 
             waterLog.setText(dateLog.getWaterInLiter(waterDrank) + "/" +
-                    dateLog.getWaterInLiter(waterNeed) + "L");
+                    dateLog.getWaterInLiter(waterNeed) + " L");
 
             int prcValue= waterDrank*100/waterNeed;
 

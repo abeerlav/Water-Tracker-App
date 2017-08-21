@@ -17,7 +17,7 @@ public class PrefsHelper {
 
     public static int getWaterNeedPrefs(Context context){
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(context);
-        return prefs.getInt(PreferenceKey.PREF_WATER_NEED,0);
+        return prefs.getInt(PreferenceKey.PREF_WATER_NEED,2500);
     }
 
     public static boolean getNotificationsPrefs(Context context) {

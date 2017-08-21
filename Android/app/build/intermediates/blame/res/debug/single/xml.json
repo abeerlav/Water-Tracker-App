@@ -6,5 +6,13 @@
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragment_prefs.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\xml\\fragment_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\widget_info.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\xml\\widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\xml\\fragment_prefs.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\xml\\fragment_prefs.xml"
     }
 ]

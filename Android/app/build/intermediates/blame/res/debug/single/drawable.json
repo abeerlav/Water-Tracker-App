@@ -1,63 +1,79 @@
 [
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\sleep.png"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_glass.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\sleep.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\sleep.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\training_icon.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\training_icon.png"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_cancel_icon.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\button_round_cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wakeup.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\wakeup.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\char_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\char_icon.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_button.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\circle_button.xml"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upp_logo.jpg",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\upp_logo.jpg"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lose_weight.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\lose_weight.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sound.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_sound.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eat.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\eat.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drop_notification_icon.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\drop_notification_icon.png"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_cancel_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\button_round_cancel_icon.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_button.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\circle_button.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
@@ -74,6 +90,334 @@
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_glass_big.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\water_glass_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\returntomain.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\returntomain.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sound.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_sound.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pheart.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\pheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_water_drop.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_water_drop.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_shape.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\w_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\plus_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_notification.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wakeup.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\wakeup.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_screen.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_page_backgound.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\main_page_backgound.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\interval_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\interval_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weight_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\weight_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_water_drop.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_water_drop.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass_xl.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_glass_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass_xl.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_glass_xl.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\history_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\returntomain.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\returntomain.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_bottle_big.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\water_bottle_big.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eat.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\eat.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\champion.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\champion.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drink_icon_backgorund.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\drink_icon_backgorund.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\char_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\char_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drink_icon_backgorund.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\drink_icon_backgorund.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\history_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_shape.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\w_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shower.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\shower.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_notification.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass_m.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_glass_m.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_screen.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_bottle.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\water_bottle.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drink_button_backgorund.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\drink_button_backgorund.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\training_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\training_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_arrow.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\forward_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_glass.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\water_glass.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sound.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_sound.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass_m.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_glass_m.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_bottle.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\water_bottle.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\show_chart.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\show_chart.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -96,28 +440,20 @@
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\returntomain.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\returntomain.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\training_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\training_icon.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\refresh.png"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pheart.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\pheart.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_water_drop.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_water_drop.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w_shape.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\w_shape.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
@@ -128,8 +464,20 @@
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_page_backgound.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\main_page_backgound.xml"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_to_icon.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\clock_to_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_glass_big.png",
@@ -140,40 +488,12 @@
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\interval_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_notification.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_notification.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wakeup.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\wakeup.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\round_corner.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bottle_l.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_bottle_l.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upp_logo.jpg",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\upp_logo.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shadow.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\shadow.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_screen.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\splash_screen.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
@@ -188,44 +508,40 @@
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_from_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\clock_from_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_page_backgound.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\main_page_backgound.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plus_icon.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\plus_icon.png"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drink_button_backgorund.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\drink_button_backgorund.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weight_icon.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\weight_icon.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_bottle_big.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\water_bottle_big.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_from_icon.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\clock_from_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass_xl.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_glass_xl.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -236,95 +552,107 @@
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\champion.png"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drop_notification_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\drop_notification_icon.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\forward_arrow.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\forward_arrow.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lose_weight.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\lose_weight.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep_mode.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\sleep_mode.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_icon.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\setting_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bottle_l.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_bottle_l.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bottle_l.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_bottle_l.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass_l.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\icon_glass_l.png"
+    },
+    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_bottle_big.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\water_bottle_big.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eat.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\eat.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weight_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\weight_icon.png"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drink_button.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\drink_button.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drink_button.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\drink_button.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\char_icon.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\char_icon.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drink_icon_backgorund.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\drink_icon_backgorund.xml"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\history_icon.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\history_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_glass_m.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\icon_glass_m.png"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_to_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\clock_to_icon.png"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\water_bottle.png",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\water_bottle.png"
-    },
-    {
-        "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep_mode.png",
         "source": "C:\\Users\\Hussain\\Desktop\\android\\Android\\app\\src\\main\\res\\drawable\\sleep_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pheart.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\pheart.png"
+    },
+    {
+        "merged": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_icon.png",
+        "source": "C:\\Users\\Hussain\\Desktop\\android\\git\\Water-Tracker-App\\Android\\app\\src\\main\\res\\drawable\\setting_icon.png"
     }
 ]
