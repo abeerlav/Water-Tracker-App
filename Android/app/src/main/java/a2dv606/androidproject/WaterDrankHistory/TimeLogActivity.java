@@ -53,7 +53,7 @@ public class TimeLogActivity extends AppCompatActivity  implements View.OnClickL
     private int glassSize;
     private int bottleSize;
     private String containerTyp=null;
-   private int removedValue=0;
+    private int removedValue=0;
     private int ID=0;
     private int pickerValue;
     private String sortBy;

@@ -90,7 +90,7 @@ public class AlarmHelper {
 
     public static void setCancelNotificationAlarm(Context context){
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(context);
-        String to = prefs.getString(PreferenceKey.TO_KEY, "8:0");
+        String to = prefs.getString(PreferenceKey.TO_KEY, "20:0");
         String[] values = to.split(":");
         String hr = values[0];
         String mt = values[1];
