@@ -85,7 +85,7 @@ public class AlarmHelper {
 
         if(alarmManager!=null)
         {  alarmManager.cancel(pendingIntent);}
-        System.out.println("has canceled");
+
     }
 
     public static void setCancelNotificationAlarm(Context context){
@@ -102,7 +102,7 @@ public class AlarmHelper {
         PendingIntent pendingIntent = PendingIntent.getBroadcast(context, 102, nIntent, PendingIntent.FLAG_UPDATE_CURRENT);
         AlarmManager alarmManager = (AlarmManager) context.getSystemService(ALARM_SERVICE);
             alarmManager.set(AlarmManager.RTC_WAKEUP, cal.getTimeInMillis(),pendingIntent);
-        System.out.println("cancel set"+ hr +" "+mt);
+
 
     }
 

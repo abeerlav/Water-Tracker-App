@@ -87,12 +87,12 @@ public class MainActivity extends Activity  implements View.OnClickListener {
         boolean isEnable= PrefsHelper.getNotificationsPrefs(context);
 
         if (isEnable)
-        {  System.out.println("is enabled");
+        {
             AlarmHelper.setNotificationsAlarm(context);
             AlarmHelper.setCancelNotificationAlarm(context);
            }
         else
-        {     System.out.println("is not enabled");
+        {
             AlarmHelper.stopNotificationsAlarm(context);
       }
     }
