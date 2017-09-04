@@ -1,0 +1,6 @@
+Water Tracker and Reminder app allows the user to drink water regularly. The application
+calculates the daily water need for the user by taking some information like weight, exercise
+schedule. The app allows setting the preferable size for containers like a glass and bottle.
+The app also allows for schedule reminders and offers a statistical analysis of the amount of what the user has consumed over the course of a day, week, month 
+or year. The app saves all the previous logs and allows to modify them. Widgets are also available to give a quick view of the progress.
+
